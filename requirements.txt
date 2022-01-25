@@ -1,0 +1,13 @@
+joblib
+uvicorn
+fastapi
+pymysql
+pillow
+python-telegram-bot
+sqlalchemy
+tqdm
+urllib3
+moviepy
+numpy
+pandas
+ngrok
